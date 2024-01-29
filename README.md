@@ -16,10 +16,6 @@
     <img src="https://avatars.githubusercontent.com/linkedin" width="8%"/>
   </a>
   <br/>
-  
-  <a href=https://www.kaggle.com/UddhavIlhe>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="8%"/>
-  </a>
 </p>
 <hr/>
 <h3 align="center">
