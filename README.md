@@ -15,6 +15,11 @@
   <a href="https://linkedin.com/in/uddhav-ilhe-13476317b">
     <img src="https://avatars.githubusercontent.com/linkedin" width="8%"/>
   </a>
+
+   <a href="uddhavilhe2001@gmail.com">
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="8%"/>
+  </a>
+  
   <br/>
 </p>
 <hr/>
