@@ -9,7 +9,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="8%"/>
   </a>
  
-  <a href="https://t.me/Uddhav Ilhe">
+  <a href="https://t.me/Uddhav_Ilhe">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="8%"/>
   </a>
   <a href="https://linkedin.com/in/uddhav-ilhe">
