@@ -116,10 +116,10 @@
   <tr>
     <th align="right">Operating System</th>
     <td valign="top">
-      <a href="#">
+      <a href="https://www.microsoft.com/software-download/windows11">
         <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="8%"/>
       </a>
-      <a href="#">
+      <a href="https://ubuntu.com/">
         <img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="8%"/>
       </a>
     </td>
