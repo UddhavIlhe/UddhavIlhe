@@ -20,9 +20,6 @@
   <a href=https://www.kaggle.com/UddhavIlhe>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="8%"/>
   </a>
-  <a href="https://UddhavIlhe.github.io">
-    <img src="https://avatars.githubusercontent.com/ShivaShirsath" width="8%"/>
-  </a>
 </p>
 <hr/>
 <h3 align="center">
