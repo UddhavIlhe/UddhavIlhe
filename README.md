@@ -12,7 +12,7 @@
   <a href="https://t.me/Uddhav_Ilhe">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="8%"/>
   </a>
-  <a href="https://linkedin.com/in/uddhav-ilhe">
+  <a href="https://linkedin.com/in/uddhav-ilhe-13476317b">
     <img src="https://avatars.githubusercontent.com/linkedin" width="8%"/>
   </a>
   <br/>
