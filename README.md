@@ -117,10 +117,10 @@
     <th align="right">Operating System</th>
     <td valign="top">
       <a href="#">
-        <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="9%"/>
+        <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="8%"/>
       </a>
       <a href="#">
-        <img src="https://www.svgrepo.com/svg/355338/ubuntu" width="13%"/>
+        <img src="https://www.svgrepo.com/svg/355338/ubuntu" width="8%"/>
       </a>
     </td>
   </tr>
