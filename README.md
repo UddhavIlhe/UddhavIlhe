@@ -112,6 +112,18 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <th align="right">Operating System</th>
+    <td valign="top">
+      <a href="#">
+        <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="9%"/>
+      </a>
+      <a href="#">
+        <img src="https://www.svgrepo.com/svg/355338/ubuntu" width="13%"/>
+      </a>
+    </td>
+  </tr>
 </table>
 <picture>
   
