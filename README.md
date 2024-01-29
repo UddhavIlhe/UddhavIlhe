@@ -107,19 +107,4 @@
   </tr>
 </table>
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://shivashirsath.github.io/UddhavIlhe/dist/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://shivashirsath.github.io/UddhavIlhe/dist/github-snake.svg"/>
-  <img alt="github-snake" src="https://UddhavIlhe.github.io/UddhavIlhe/dist/github-snake.svg"/>
-</picture>
-<picture>
-  <source width="100%"
-    srcset="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&icon_color=F80&text_color=FFF&hide_title=true&border_color=426&include_all_commits=true&bg_color=000&title_color=080&border_radius=25"
-    media="(prefers-color-scheme: dark)"/>
-  <source width="100%"
-    srcset="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&icon_color=F80&text_color=000&hide_title=true&border_color=426&include_all_commits=true&bg_color=fff&title_color=080&border_radius=25"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img width="100%"
-    src="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&icon_color=F80&text_color=BBB&hide_title=true&border_color=426&include_all_commits=true&bg_color=fff&title_color=080&border_radius=25"/>
-</picture>
+  
