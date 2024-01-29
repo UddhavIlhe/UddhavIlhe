@@ -49,6 +49,9 @@
       <a href="../../../Python">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="9%"/>
       </a>
+      <a href="../../../C">
+        <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="10%"/>
+      </a>
       </a>
       <!-- Scripting Languages -->
       <a href="../../../JavaScript">
